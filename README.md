@@ -13,7 +13,6 @@ This project aims to predict movie ratings using Convolutional Neural Networks (
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -50,9 +49,6 @@ pip install -r requirements.txt
 
 4. **Prediction**: Use the trained model to predict ratings for new movie posters. Provide the path to the poster image as input to the model for prediction.
 
-## Results
-
-[Insert results here]
 
 ## Contributing
 
