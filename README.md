@@ -26,7 +26,7 @@ The dataset used in this project consists of movie posters along with their corr
 - Keras
 - Matplotlib
 - NumPy
-- Pandas
+- Pandas 
 
 Install the required dependencies using the following command:
 
