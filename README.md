@@ -8,7 +8,7 @@ This project aims to predict movie ratings using Convolutional Neural Networks (
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributing](#contributing) 
 - [License](#license)
 
 ## Introduction
