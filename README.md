@@ -3,7 +3,7 @@
 This project aims to predict movie ratings using Convolutional Neural Networks (CNN). The system takes movie posters as input and predicts the ratings based on the visual features extracted by the CNN model.
 
 ## Table of Contents
- 
+  
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
