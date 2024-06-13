@@ -10,7 +10,7 @@ This project aims to predict movie ratings using Convolutional Neural Networks (
 - [Usage](#usage) 
 - [Contributing](#contributing) 
 - [License](#license)
-
+ 
 ## Introduction
 
 The Movie Rating Prediction System is built using deep learning techniques, particularly Convolutional Neural Networks (CNN), to predict the rating of a movie based solely on its poster. With the increasing importance of visual content in today's media consumption, predicting movie ratings solely from posters can be a valuable tool for various applications such as content recommendation and movie marketing.
